@@ -1,0 +1,3 @@
+id: 1 lastname: Kowalski age: 23
+id: 2 lastname: Szaur age: 19
+id: 3 lastname: Stoch age: 25
